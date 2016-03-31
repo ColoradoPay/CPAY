@@ -1,0 +1,9 @@
+Building CPAY
+
+See doc/readme-qt.rst for instructions on building CPAY-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CPAY.
+
+See doc/build-*.txt for instructions on building CPAYd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CPAY.

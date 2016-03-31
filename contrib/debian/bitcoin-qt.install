@@ -1,0 +1,6 @@
+CPAY-qt usr/bin
+share/pixmaps/CPAY32.xpm usr/share/pixmaps
+share/pixmaps/CPAY16.xpm usr/share/pixmaps
+share/pixmaps/CPAY128.png usr/share/pixmaps
+debian/CPAY-qt.desktop usr/share/applications
+debian/CPAY-qt.protocol usr/share/kde4/services/
